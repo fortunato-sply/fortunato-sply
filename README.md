@@ -19,7 +19,7 @@
 
 <div>
   <a href="https://github.com/fortunato-sply">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fortunato-sply&show_icons=true&count_private=true&theme=synthwave"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortunato-sply&layout=compact&theme=synthwave"/>    
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fortunato-sply&show_icons=true&count_private=true&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortunato-sply&layout=compact&theme=tokyonight"/>    
   <a/>
 </div>
