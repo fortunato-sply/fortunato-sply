@@ -4,7 +4,7 @@
 
 <h2>Hi, I'm Lucas Fortunato!</h2>
 <h4>:briefcase: Systems Development Apprentice - BOSCH</h4>
-<h4>:mortar_board: System Development Technician, 1st Semester - SENAI</h4>
+<h4>:mortar_board: System Development Technician, 2nd Semester - SENAI</h4>
 <h4>:mortar_board: Studying System Analysis and Development at PUCPR, 3rd Period</h4>
 
 <div id="badges">
