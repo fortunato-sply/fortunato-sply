@@ -4,7 +4,7 @@
 
 <h2>Hi, I'm Lucas Fortunato!</h2>
 <h3>Fullstack developer with focus on front-end</h3>
-<h4>:briefcase: System Development Apprentice at BOSCH</h4>
+<h4>:briefcase: Software Dev Trainee at BOSCH</h4>
 <h4>:mortar_board: System Development Technician, 2nd Semester at SENAI</h4>
 <h4>:mortar_board: Studying System Analysis and Development, 3rd Period, at PUCPR</h4>
 
