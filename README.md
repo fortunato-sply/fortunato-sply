@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
+  <img src="0_fhD5MEN7pMqfC1Am.gif">
 </div>
 
 <h2>Hi, I'm Lucas Fortunato!</h2>
