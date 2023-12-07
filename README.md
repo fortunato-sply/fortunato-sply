@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="0_fhD5MEN7pMqfC1Am.gif" width="400">
-</div>
+# Hi there, I'm Lucas Fortunato! 👋
 
 ## About me
 
