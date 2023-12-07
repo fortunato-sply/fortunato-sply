@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="0_fhD5MEN7pMqfC1Am.gif">
+  <img src="0_fhD5MEN7pMqfC1Am.gif" width="400">
 </div>
 
 ## About me
@@ -9,6 +9,13 @@
 :mortar_board:  I'm studying System Development as a Technician in my 4rd semester at [SENAI](https://www.senaipr.org.br/).
 
 :mortar_board: I'm also pursuing a degree in System Analysis and Development, currently in my 4rd semester at [PUCPR](https://www.pucpr.br/).
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fortunato/)
+<a href="mailto:lucasfortunato2530@gmail.com?subject=Hi, Lucas! (from Github)" target="_blank"  rel="noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
 
 ## Skills
 
@@ -45,13 +52,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23008FBA.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fortunato/)
-<a href="mailto:lucasfortunato2530@gmail.com?subject=Hi, Lucas! (from Github)" target="_blank"  rel="noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-</a>
 
 ## Status
 <picture>
