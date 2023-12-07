@@ -4,7 +4,8 @@
 
 <h2>Hi, I'm Lucas Fortunato!</h2>
 <h3>Fullstack Developer</h3>
-<h4>:briefcase: Software Dev at BOSCH</h4>
+<h3>React, Typescript, React Native, Tailwind, Angular, .NET, C#, Python, Machine Learning, Deep Learning, Java, SQL, MongoDB, Figma</h3>
+<h4>:briefcase: Software Developer at BOSCH</h4>
 <h4>:mortar_board: System Development Technician, 3rd Semester at SENAI</h4>
 <h4>:mortar_board: Studying System Analysis and Development, 4rd Period, at PUCPR</h4>
 
