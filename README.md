@@ -1,13 +1,3 @@
-# Hi there, I'm Lucas Fortunato! 👋
-
-## About me
-
-:briefcase: I'm currently working as a Fullstack Developer at [BOSCH](https://www.bosch.com.br/).
-
-:mortar_board:  I'm studying System Development as a Technician in my 4rd semester at [SENAI](https://www.senaipr.org.br/).
-
-:mortar_board: I'm also pursuing a degree in System Analysis and Development, currently in my 4rd semester at [PUCPR](https://www.pucpr.br/).
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fortunato/)
